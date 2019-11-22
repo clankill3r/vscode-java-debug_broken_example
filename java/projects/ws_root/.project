@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectDescription>
+  <name>ws_root</name>
+  <comment/>
+  <projects>
+    </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+      <arguments>
+            </arguments>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+  <linkedResources>
+	  <link>
+        <name>bin_folder</name>
+        <type>2</type>
+        <locationURI>/java/bin</locationURI>
+    </link>
+
+    <link>
+      <name>nasa_src</name>
+      <type>2</type>
+      <locationURI>/java/projects/nasa/src</locationURI>
+    </link>
+    
+  </linkedResources>
+</projectDescription>
